@@ -4,7 +4,7 @@
 
 ## Task-1 (Portfolio Website) 
 
-A Responsive portfolio website using HTML CSS JavaScript and Bootstrap.
+A Responsive portfolio website using HTML CSS and Bootstrap.
 
 
 ## Features 
